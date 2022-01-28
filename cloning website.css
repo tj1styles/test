@@ -1,0 +1,139 @@
+.two{
+   background-color: rgb(211, 0, 130);
+   text-decoration: none;
+   color: white;
+   padding: 10px 12px 10px;
+
+}
+.two:hover{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
+.three{
+    text-decoration: none;
+    color: rgb(211, 0, 130); 
+}
+.three:hover{
+    color: blue;
+    text-decoration: none;
+}
+.one{
+    border: rgb(211, 0, 130) 1px solid;
+    background-color: white;
+    text-decoration: none;
+    color: rgb(211, 0, 130);
+    padding: 10px;
+    font-weight: bold;
+}
+.one:hover{
+    border: blue 1px solid;
+    color: blue;
+    text-decoration: none;
+}
+.four{
+    background-color:  rgb(211, 0, 130);
+    color: white;
+    padding: 10px;
+}
+.four:hover{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
+.five{
+    color:  rgb(211, 0, 130);
+    text-decoration: none;
+}
+.five:hover{
+    color:blue;
+    text-decoration: none;
+}
+.six{
+    background-color: rgb(211, 0, 130) ;
+    color: white;
+    padding: 5px;
+    transition:all 0.6s linear;
+}
+.six:hover{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
+.seven{
+    text-decoration: none;
+    color: white;
+}
+.seven:hover{
+    color: white;
+
+}
+.eight{
+    background-image: url(/images/Woman\ picture.jpg);
+
+
+}
+.nine{
+    background-image: url(/images/Sky\ picture.jpg);
+}
+.ten{
+    border: white 1px solid;
+    padding: 10px 20px;
+    color: white;
+}
+.ten:hover{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
+.eleven{
+    background-image: url(/images/marker.jpg);
+}
+.twelve{
+    background-image: url(/images/Stethoscope.jpg);
+}
+.thirteen{
+    background-image: url(/images/Child.jpg);
+}
+.fourteen{
+    border:  rgb(211, 0, 130) 1px solid;
+    text-decoration: none;
+    color: rgb(211, 0, 130) ;
+    padding: 10px 20px;
+}
+.fourteen:hover{
+    border: blue 1px solid;
+    text-decoration: none;
+    color: blue;
+
+}
+.fifteen{
+    background-color:rgb(211, 0, 130) ;
+    color: white;
+    text-decoration: none;
+    padding: 10px 70px;
+}
+.fifteen:hover{
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+}
+.sixteen{
+    color: rgb(211, 0, 130);
+    text-decoration: none;
+}
+.sixteen:hover{
+    color: blue;
+    text-decoration: none;
+}
+.seventeen{
+    color: rgb(211, 0, 130);
+    border:rgb(211, 0, 130) 1px solid ;
+    padding: 2px 10px;
+    padding-bottom: 1px;
+    padding-top: 13px;
+}
+.seventeen:hover{
+    border: blue 1px solid;
+    text-decoration: none;
+}
