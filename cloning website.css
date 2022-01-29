@@ -69,12 +69,12 @@
 
 }
 .eight{
-    background-image: url(/images/Woman\ picture.jpg);
+    background-image: url(./images/Woman\ picture.jpg);
 
 
 }
 .nine{
-    background-image: url(/images/Sky\ picture.jpg);
+    background-image: url(./images/Sky\ picture.jpg);
 }
 .ten{
     border: white 1px solid;
