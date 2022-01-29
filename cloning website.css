@@ -87,13 +87,13 @@
     text-decoration: none;
 }
 .eleven{
-    background-image: url(/images/marker.jpg);
+    background-image: url(./images/marker.jpg);
 }
 .twelve{
-    background-image: url(/images/Stethoscope.jpg);
+    background-image: url(./images/Stethoscope.jpg);
 }
 .thirteen{
-    background-image: url(/images/Child.jpg);
+    background-image: url(./images/Child.jpg);
 }
 .fourteen{
     border:  rgb(211, 0, 130) 1px solid;
